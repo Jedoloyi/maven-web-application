@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla-web-app</finalName>
+		<finalName>joyceapp</finalName>
 		
 		<plugins>
 			<plugin>
